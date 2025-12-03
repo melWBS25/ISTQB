@@ -1,5 +1,6 @@
 class Calculator:
     """Eine einfache Taschenrechner-Klasse"""
+    # Test git
 
     def addiere(self, a, b):
         """Addiert zwei Zahlen"""
